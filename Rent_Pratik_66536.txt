@@ -1,0 +1,27 @@
+
+-----------------------------------------------------------
+Invoice for Land Rental
+-----------------------------------------------------------
+
+Name of Customer: Pratik
+Date and Time of Rent of Land: 2025-08-02 13:00:13.732941
+Total amount for all rented lands: Rs 210000
+-----------------------------------------------------------
+
+Kitta No: 101
+Location: Kathmandu
+Direction: North
+Anna: 4
+Monthly Rate of Land: 50000
+Rental Duration: 3 months
+Amount = Rs150000
+-----------------------------------------------------------
+
+Kitta No: 102
+Location: Lalitpur
+Direction: East
+Anna: 5
+Monthly Rate of Land: 60000
+Rental Duration: 1 months
+Amount = Rs60000
+-----------------------------------------------------------

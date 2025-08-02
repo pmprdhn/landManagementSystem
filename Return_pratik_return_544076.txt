@@ -1,0 +1,18 @@
+
+-----------------------------------------------------------
+Land Return Invoice
+-----------------------------------------------------------
+
+Name of Customer: pratik
+OTotal Fine: Rs 11836666
+Grand Total: Rs 23823332
+-----------------------------------------------------------
+
+Kitta No: 101
+Location: Kathmandu
+Direction: North
+Rental Start Date: 2005-11-23
+Return Date: 2025-08-02
+Fine: Rs 11836666
+Total Amount: Rs 150000
+-----------------------------------------------------------
